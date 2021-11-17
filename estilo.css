@@ -2,5 +2,5 @@ body {background-color: rgb(71,71,71); margin: 0 auto; text-align: center; font-
 a {color: black;}
 
 @media screen and (max-width: 600px) {
-  header {width:90%;}
+  #header {width:90%;}
 }
